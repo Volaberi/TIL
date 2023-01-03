@@ -3,4 +3,4 @@
 
 ## 배운것
 
-Git에 init, status, add, commit, remote, push에 대하여 배움
+git init, git status, git add, git commit, git remote, git push에 대하여 배움
